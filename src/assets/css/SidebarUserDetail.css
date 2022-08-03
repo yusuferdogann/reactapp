@@ -1,0 +1,33 @@
+.icon i{
+    font-size: 15px;
+    margin: 15px;
+}
+.icon  i  .danger{
+ 
+    width: 5px !important;
+    height: 5px !important;
+    background-color: red;
+    border-radius: 50%;
+}
+.icon  i  .primary{
+ 
+    width: 5px !important;
+    height: 5px !important;
+    background-color: blue;
+    border-radius: 50%;
+}
+.profil_img img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.profil_info{
+    margin-left: 10px;
+}
+.profil_info h5{
+    font-size: 16px;
+}
+.profil_info h6{
+    margin-top: -5px;
+    font-size: 10px;
+}

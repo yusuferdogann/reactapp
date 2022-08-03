@@ -1,0 +1,34 @@
+.timesheet{
+    /* background-color: red; */
+    /* max-height:590px !important; */
+    /* overflow-y: auto; */
+    overflow-x: hidden;
+}
+.timesheet span{
+    display: block;
+    padding: 15px;
+    /* width:30%; */
+   
+    
+}
+ hr{
+    width: 60%;
+    color: rgb(109, 109, 109);
+}
+.df{
+   
+    padding: 0;
+    margin: 0;
+    margin-top: -20px;
+}
+.fd{
+    height: 5px;
+    height: 30px;
+    margin-top: 10px;
+}
+.dff{
+    height: 60px;
+    padding: 0;
+    margin-top: -10px;
+    margin-bottom: -25px;
+}

@@ -1,0 +1,48 @@
+.latestactivity{
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;   
+}
+.form-check-input{
+    border: none !important;
+}
+.latestactivity img{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+.latestactivity_detail{
+    padding: 20px;
+}
+
+.latestactivity_detail span{
+    margin-left: 10px;
+    color: rgb(179, 179, 179);
+}
+.latestactivity_detail i{
+    color: rgb(79, 220, 255);
+}
+.latestactivity_detail .form-check-input:checked{
+    background-color:rgb(79, 220, 255)
+}
+.latestactivity_detail h6{
+    font-size: 13px;
+    color: rgb(179, 179, 179);
+}
+.latestactivity_detail label p{
+    font-size: 12px;
+    color: white;
+}
+
+.latestactivity_imagesBox label{
+    margin-left: -3px;
+    z-index: 34;
+    
+}
+.latestactivity_imagesBox{
+    margin-left: -3px;
+    z-index: 34;
+    display: flex !important;
+}

@@ -1,0 +1,19 @@
+.cardblock{
+    height: 150px;
+    width: 240px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin:5px;
+}
+.cardblock i{
+    font-size: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: end;
+    color: rgb(79, 220, 255);
+}
+.cardblock h4{
+    padding: 10px;
+    font-size: 15px;
+}
